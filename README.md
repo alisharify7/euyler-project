@@ -22,11 +22,4 @@ Currently we have 1038348 registered members who have solved at least one proble
 The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
 
 
-## What next?
-In order to track your progress it is necessary to setup an account and have Cookies enabled.
-
-If you already have an account, then Sign In. Otherwise, please Register – it's completely free!
-
-However, as the problems are challenging, then you may wish to view the Problems before registering.
-
 https://projecteuler.net/
