@@ -1,8 +1,8 @@
 About Project Euler
 
 
-Leonhard Euler (1707-1783)
 <img src="https://projecteuler.net/images/clipart/euler_portrait.png">
+Leonhard Euler (1707-1783)
 
 
 
