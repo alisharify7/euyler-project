@@ -1,6 +1,5 @@
 import os
 
-
 def is_ok(n):
     """
         this function take number and return a Boolean
